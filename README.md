@@ -14,5 +14,5 @@ Gobang(五子棋) part of my QQ bot!
 ![image](https://github.com/user-attachments/assets/22ae43f2-c8c4-47d0-8849-d19ba1db49a2)
 ![image](https://github.com/user-attachments/assets/9f3dba6d-fda4-468f-87c3-e791ea2467f4)
 ![image](https://github.com/user-attachments/assets/fae4524b-2b1b-4f59-b732-33601bfa682d)
-![image](https://github.com/user-attachments/assets/9534cfdc-012b-4edc-b1d9-235a29033756)
+![image](https://github.com/user-attachments/assets/9534cfdc-012b-4edc-b1d9-235a29033756)  
 

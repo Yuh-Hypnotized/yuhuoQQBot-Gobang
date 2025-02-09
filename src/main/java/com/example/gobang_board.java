@@ -3,9 +3,15 @@ package com.example;
 import java.util.ArrayList;
 import java.util.List;
 public class gobang_board {
+    public long groupID;
+    public long player1 = -1;
+    public long player2 = -1;
+    public boolean gameFlag = false;
+    public int current_player = 1;
     public List<List<Integer>> board;
-    public void initBoard () {
+    public void initBoard (long id) {
         board = new ArrayList<>();
+        groupID = id;
         for (int i=0; i<15; i++) {
             List<Integer> row = new ArrayList<>();
             for (int j=0; j<15;j++) {

@@ -51,7 +51,7 @@ public class gobang_board_renderer {
         }
 
         // 设置字体，用于绘制标号
-        g2d.setFont(new Font("Arial", Font.PLAIN, 12));
+        g2d.setFont(new Font("Arial", Font.PLAIN, 20));
         FontMetrics fm = g2d.getFontMetrics();
 
         // 绘制左侧行标号（0~14），使得标号居中显示于每一行对应的棋盘线上
